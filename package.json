@@ -1,0 +1,33 @@
+{
+  "name": "clonespotify",
+  "version": "1.0.0",
+  "description": "Este é um projeto de clone do Spotify, desenvolvido para fins educacionais. O objetivo é criar uma interface semelhante à do Spotify, utilizando tecnologias web modernas.",
+  "main": "index.hmtl",
+  "scripts": {
+    "dev": "tailwind -i ./input.css -o ./src/css/style.css --watch",
+    "build": "tailwind -i ./input.css -o ./src/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaque-Barcelos08/CloneSpotify.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "spotify",
+    "clone",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Isaque Barcelos Leme De Souza",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Isaque-Barcelos08/CloneSpotify/issues"
+  },
+  "homepage": "https://github.com/Isaque-Barcelos08/CloneSpotify#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}
