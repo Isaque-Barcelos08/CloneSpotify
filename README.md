@@ -18,13 +18,13 @@ Este é um projeto de clone do Spotify, desenvolvido para fins educacionais. O o
     git clone http://github.com/Isaque-Barcelos08/CloneSpotify.git
     ```
 
-    2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 
     ```bash
     cd CloneSpotify
     ```
 
-    3. Instale as dependências:
+3. Instale as dependências:
 
     ```bash
     npm install
