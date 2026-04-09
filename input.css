@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {    Unknow at rule @theme
+    --spacing-14: 3.5rem;
+    --spacing-125px: 125px;
+
+    --color-hoverspt: #18D760;
+    --color-purple-main: #2D46B9;
+    --color-green-man: #1ED760;
+
+    --font-size-9x1: 9rem;
+
+    --background-image-spotify-theme: url('img/bursts.vgs');
+    --backgroud-image-spotify-theme-mobile: url('img/bursts-mobile.svg');
+
+@utility bg-size-175 {
+    background-size-175: 175%;
+}
+
+@utility bg-size-195 {
+    background-size-195: 195%;
+}
+@utility bg-position-banner {
+    background-position-banner: 46% 4%;
+}
+@utility bg-position-banner-mobile {
+     background-position-banner-mobile: top 25% center;
+}
+}
